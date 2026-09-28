@@ -9,16 +9,19 @@ word for word.
 
 ## Who I am
 
-- **Name:** {{seu nome como aparece no perfil}}
-- **Handle:** {{@}}
+- **Name:** Allan Delon
+- **Handle:** @oallancontador
+- **Registro:** Contador, CRC {{UF-número}}
+- **Experience:** 4 anos de profissão
 - **What I do, in one sentence:** Contador. Faço assessoria contábil e
   acompanhamento mensal de empresas e pessoas físicas.
-- **Who I am talking to:** o pequeno empresário e o autônomo da minha cidade e
-  região: MEI, Simples Nacional, prestador de serviço, comércio, indústria, e
-  pessoa física com dúvida de Imposto de Renda. Gente que ouve boato no grupo
-  de WhatsApp e quer saber o que é verdade.
-- **Where:** Pilões e região. Cidade pequena. Isso muda as regras de sigilo
-  (ver "Off limits").
+- **Who I am talking to:** o pequeno empresário e o autônomo, de qualquer
+  lugar do Brasil: MEI, Simples Nacional, prestador de serviço, comércio,
+  indústria, e pessoa física com dúvida de Imposto de Renda. Gente que ouve
+  boato no grupo de WhatsApp e quer saber o que é verdade.
+- **Where:** base em Pilões (PB), cidade pequena, com clientes de fora da
+  Paraíba também. A cidade pequena muda as regras de sigilo (ver "Off
+  limits").
 - **What I sell:** assessoria e acompanhamento mensal da empresa.
 
 ## What I sound like
@@ -55,7 +58,8 @@ word for word.
 - **Face on camera:** sempre. Falo direto pra câmera.
 - **Voiceover or to-camera:** para a câmera. Às vezes aponto para um exemplo na
   tela.
-- **Pace:** {{cronometre um roteiro lido em voz alta; até lá use 160 wpm}}
+- **Pace:** ~130 palavras por minuto ou menos. Rodar `beats.py --wpm 130`.
+  Um reel de 60 segundos comporta no máximo ~130 palavras faladas.
 
 ## My positions
 
@@ -81,10 +85,26 @@ os hooks.
   material de construção" é alguém que todo mundo conhece). Dúvida de cliente
   só entra se for genérica o bastante para qualquer pessoa ter feito.
 - **Sigilo profissional:** nenhum número, documento ou situação de cliente.
-- **Publicidade profissional (CFC):** sem promessa de resultado ("vou reduzir
-  seu imposto em X%"), sem comparação com outros contadores, sem
-  sensacionalismo. {{confirmar os limites exatos no Código de Ética /
-  normas do CFC e anotar aqui}}
+- **Publicidade profissional: NBC PG 01/2019 (Código de Ética do Contador).**
+  Conferido pelo Allan. Na prática, em todo roteiro, legenda e card:
+  - Tom informativo, técnico, moderado e discreto. Nada de mercantilização nem
+    sensacionalismo de venda.
+  - Nada de afirmação desproporcional sobre o serviço, a capacitação ou a
+    experiência: nunca "o melhor contador", "o mais completo", "especialista
+    número 1".
+  - Nada de comparação com outros contadores ou escritórios, nem indireta
+    ("tem contador por aí que...").
+  - Nada de promessa de resultado ("economize 40%", "pague menos imposto
+    garantido").
+  - Nada de promoção ou vantagem na oferta: sem "primeiro mês grátis",
+    desconto, brinde ou sorteio.
+  - Cliente identificável só com autorização por escrito. Sem autorização,
+    nenhum caso.
+  - Todo número citado precisa ter documento ou fonte guardada. **Ao entregar
+    um roteiro, listar embaixo as fontes de cada número e data**, para eu
+    arquivar.
+  - Nome, categoria (Contador) e número do CRC precisam aparecer. Ficam fixos
+    na bio; em material de anúncio pago, também na legenda ou na arte.
 - **Hooks de medo ou falso alarme:** um hook pode abrir com o boato ("O Pix vai
   ser taxado?") desde que o vídeo desmonte o boato logo em seguida. Nunca
   afirmar como fato algo que o próprio vídeo desmente.
@@ -119,8 +139,10 @@ leva `{{seu número}}`.
 
 ## Notes for the skills
 
-- Meus vídeos antigos têm de 2 a 3 minutos. O alvo agora é **30 a 45
-  segundos**, um assunto por reel. Tema grande vira série ("parte 1", "no
-  próximo vídeo"), que eu já faço naturalmente.
-- Ainda não tenho nicho. Por enquanto a região é o nicho: sou o contador que
-  explica o que está acontecendo, pra quem é de Pilões e região.
+- Meus vídeos editados ficam **abaixo de 1 minuto**. Gravo bem mais do que
+  isso e corto na edição. Escrever o roteiro já no tamanho final (até ~130
+  palavras, 45 a 60 segundos) economiza gravação: um assunto por reel, e tema
+  grande vira série ("parte 1", "no próximo vídeo"), que eu já faço.
+- Não tenho nicho de público: atendo todo tipo de empresa e pessoa física. O
+  que me diferencia é o ângulo: **o contador que desmonta boato e explica o que
+  está valendo de verdade**, com calma. Todo reel deve caber nesse ângulo.
