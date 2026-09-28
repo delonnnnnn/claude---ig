@@ -11,7 +11,7 @@ word for word.
 
 - **Name:** Allan Delon
 - **Handle:** @oallancontador
-- **Registro:** Contador, CRC {{UF-número}}
+- **Registro:** Contador, CRC PB-013968/O-1
 - **Experience:** 4 anos de profissão
 - **What I do, in one sentence:** Contador. Faço assessoria contábil e
   acompanhamento mensal de empresas e pessoas físicas.
@@ -123,7 +123,7 @@ Ainda não tenho caso de cliente que possa usar. Até lá, a prova vem de:
 - **Dados públicos com fonte**: Receita Federal, comitê gestor, lei,
   pesquisas citadas pelo nome.
 - **Minha experiência, em números agregados:** 4 anos de profissão,
-  {{quantidade aproximada de empresas atendidas, se puder dizer}}.
+  30 empresas atendidas. Usar exatamente assim, sem arredondar para cima.
 
 Números de resultado de cliente: nunca inventar. Sem número real, o roteiro
 leva `{{seu número}}`.
@@ -132,9 +132,13 @@ leva `{{seu número}}`.
 
 - **Default CTA:** "Me chama no direct" ou "comenta aqui embaixo". Um só por
   vídeo.
-- **My keyword CTA, if I use one:** {{ainda não uso; sugestão: uma palavra por
-  tema, ex. comente PIX, comente MEI}}
-- **What the keyword sends them:** {{definir}}
+- **My keyword CTA:** uma palavra por tema, curta e fácil de digitar, sem
+  acento: IR, MEI, SIMPLES, PIX, REFORMA. A palavra conta pra mim o que a
+  pessoa precisa antes de eu responder.
+- **What the keyword sends them:** eu respondo no direct com um material
+  informativo curto sobre o tema (checklist, prazos, documentos) e o link do
+  meu WhatsApp. Material informativo pode; oferta de serviço grátis, desconto
+  ou brinde não (NBC PG 01).
 - **Where my link goes:** meu WhatsApp.
 
 ## Notes for the skills
