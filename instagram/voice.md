@@ -122,7 +122,7 @@ Ainda não tenho caso de cliente que possa usar. Até lá, a prova vem de:
   pergunta se...").
 - **Dados públicos com fonte**: Receita Federal, comitê gestor, lei,
   pesquisas citadas pelo nome.
-- **Minha experiência, em números agregados:** {{anos de profissão}},
+- **Minha experiência, em números agregados:** 4 anos de profissão,
   {{quantidade aproximada de empresas atendidas, se puder dizer}}.
 
 Números de resultado de cliente: nunca inventar. Sem número real, o roteiro
